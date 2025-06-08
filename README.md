@@ -48,4 +48,32 @@ This project is a **Streamlit-based web app** that predicts and analyzes **emplo
 
 ---
 
+To run the `final_project.ipynb` notebook for data analysis:
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Areddyp/Final-Project.git
+cd Final-Project
+
+Install Dependencies
+
+pip install -r requirements.txt
+
+Launch Jupyter Notebook
+
+jupyter notebook
+Then open final_project.ipynb and run all cells (Kernel > Restart & Run All).
+
+###  What You'll Get
+Data preprocessing and EDA
+
+Stress level classification using Random Forest
+
+Feature importance analysis
+
+SHAP visualizations for model interpretability
+
+Streamlit app (app.py) for dashboard deployment
+
 
